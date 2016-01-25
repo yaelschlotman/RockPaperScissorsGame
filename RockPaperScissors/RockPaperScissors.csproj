@@ -43,9 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AllTimeScore.cs" />
+    <Compile Include="CreatePlayerFile.cs" />
+    <Compile Include="DisplayRecords.cs" />
+    <Compile Include="FIleRead.cs" />
+    <Compile Include="FileWrite.cs" />
+    <Compile Include="Items.cs" />
+    <Compile Include="Lizard.cs" />
+    <Compile Include="Paper.cs" />
+    <Compile Include="PlayerProfile.cs" />
+    <Compile Include="PlayerThrow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RandomizeThrow.cs" />
+    <Compile Include="ComputerThrow.cs" />
+    <Compile Include="Rock.cs" />
+    <Compile Include="Scissors.cs" />
+    <Compile Include="SessionScore.cs" />
+    <Compile Include="Spock.cs" />
+    <Compile Include="StartSession.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

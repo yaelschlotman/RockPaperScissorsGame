@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissors
 {
-    class RandomizeThrow
+    class PlayerProfile
     {
+
+
+
+
+
+
+
     }
 }
